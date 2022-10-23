@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Petur Einarsson Nielsen</title>
+    <title>Peter Einarsson Nielsen</title>
     <link>http://pe-nielsen@github.io/</link>
-    <description>Recent content on Petur Einarsson Nielsen</description>
+    <description>Recent content on Peter Einarsson Nielsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://pe-nielsen@github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://pe-nielsen@github.io/about/</link>
+      <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
+      
+      <guid>http://pe-nielsen@github.io/about/</guid>
+      <description>I&amp;rsquo;m Peter (Pétur). I hold a master&amp;rsquo;s degree in physics and am currently working towards a PhD at the University of Cambridge.
+I study the fermiology and exotic quantum phases of quantum materials. My research interests are emergent quantum phenomena, unconventional superconductivity, topological magnetism, and energy technologies.
+I did my undergraduate and master&amp;rsquo;s course at Durham University where I graduated with a first-class degree. Work I did for my master&amp;rsquo;s thesis led to new insights in magnetic interactions in cubic-chiral materials.</description>
+    </item>
+    
   </channel>
 </rss>

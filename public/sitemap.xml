@@ -2,9 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pe-nielsen@github.io/categories/</loc>
+    <loc>http://pe-nielsen@github.io/about/</loc>
+    <lastmod>2022-10-23T14:34:32+01:00</lastmod>
+  </url><url>
+    <loc>http://pe-nielsen@github.io/blog/</loc>
   </url><url>
     <loc>http://pe-nielsen@github.io/</loc>
+  </url><url>
+    <loc>http://pe-nielsen@github.io/series/</loc>
   </url><url>
     <loc>http://pe-nielsen@github.io/tags/</loc>
   </url>

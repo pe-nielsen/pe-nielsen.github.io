@@ -27,6 +27,9 @@ paginate = 10
   # Enable sharing buttons, if you like
   enableSharingButtons = true
 
+  # Add theme toggle button
+  enableThemeToggle = true
+
   # Metadata mostly used in document's head
   description = "Petur Einarsson Nielsen, homepage"
   keywords = "homepage, blog"

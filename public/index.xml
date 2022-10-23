@@ -5,7 +5,8 @@
     <link>http://pe-nielsen@github.io/</link>
     <description>Recent content on Peter Einarsson Nielsen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://pe-nielsen@github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2022 14:34:32 +0100</lastBuildDate><atom:link href="http://pe-nielsen@github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://pe-nielsen@github.io/about/</link>
@@ -15,6 +16,15 @@
       <description>I&amp;rsquo;m Peter (Pétur). I hold a master&amp;rsquo;s degree in physics and am currently working towards a PhD at the University of Cambridge.
 I study the fermiology and exotic quantum phases of quantum materials. My research interests are emergent quantum phenomena, unconventional superconductivity, topological magnetism, and energy technologies.
 I did my undergraduate and master&amp;rsquo;s course at Durham University where I graduated with a first-class degree. Work I did for my master&amp;rsquo;s thesis led to new insights in magnetic interactions in cubic-chiral materials.</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
+      <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
+      
+      <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
+      <description></description>
     </item>
     
   </channel>

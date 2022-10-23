@@ -5,6 +5,16 @@
     <link>http://pe-nielsen@github.io/tags/</link>
     <description>Recent content in Tags on Peter Einarsson Nielsen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://pe-nielsen@github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2022 14:34:32 +0100</lastBuildDate><atom:link href="http://pe-nielsen@github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>untagged</title>
+      <link>http://pe-nielsen@github.io/tags/untagged/</link>
+      <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
+      
+      <guid>http://pe-nielsen@github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

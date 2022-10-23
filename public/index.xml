@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petur Einarsson Nielsen</title>
+    <link>http://pe-nielsen@github.io/</link>
+    <description>Recent content on Petur Einarsson Nielsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://pe-nielsen@github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

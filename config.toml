@@ -1,8 +1,16 @@
 baseURL = 'http://pe-nielsen@github.io/'
 languageCode = 'en-us'
-title = 'Petur Einarsson Nielsen'
+title = 'Peter Einarsson Nielsen'
 theme = 'hello-friend-ng'
 paginate = 10
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+
+[author]
+  name = "P. Einarsson Nielsen"
+
 
 [params]
   dateform        = "2 Jan, 2006"
@@ -24,29 +32,53 @@ paginate = 10
   keywords = "homepage, blog"
   images = [""]
 
+  # Custom footer
+  # If you want, you can easily override the default footer with your own content.
+  #
+  [params.footer]
+    trademark = true
+    rss = false
+    copyright = false
+    author = true
+
+    topText = []
+    bottomText = [
+      "Built with <a href=\"http://gohugo.io\">Hugo</a>"
+    ]
+
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "pe-nielsen"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    # logoCursorColor    = "#67a2c9"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    logoCursorAnimate  = "3s"
+
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url = "mailto:nielsen.petur@gmail.com"
+  [[params.social]]
+    name = "orcid"
+    url = "https://orcid.org/my-orcid?orcid=0000-0002-5730-9645"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
     series   = "series"
 
-[languages]
-  [languages.en]
-    title = "Petur Einarsson Nielsen"
-    subtitle = "PhD Physics at the University of Cambridge..."
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "hello friend ng"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
   # And you can even create generic menu
+[menu]
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"

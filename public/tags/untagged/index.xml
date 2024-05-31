@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on Peter Einarsson Nielsen</title>
+    <title>Untagged on Peter Einarsson Nielsen</title>
     <link>http://pe-nielsen@github.io/tags/untagged/</link>
-    <description>Recent content in untagged on Peter Einarsson Nielsen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Untagged on Peter Einarsson Nielsen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 14:34:32 +0100</lastBuildDate><atom:link href="http://pe-nielsen@github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 14:34:32 +0100</lastBuildDate>
+    <atom:link href="http://pe-nielsen@github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
       <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
       <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
-      
       <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Arch Maintenance</title>
+      <link>http://pe-nielsen@github.io/posts/1/01/arch-maintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://pe-nielsen@github.io/posts/1/01/arch-maintenance/</guid>
+      <description>Performing Regular Maintenance Perform regular updates. Check announcements on the Arch forums to resolve any problems. sudo pacman -Syu Occasionally remove orphaned packages sudo pacman -Qdtq | sudo pacman -Rns - </description>
+    </item>
   </channel>
 </rss>

@@ -4,28 +4,37 @@
     <title>Peter Einarsson Nielsen</title>
     <link>http://pe-nielsen@github.io/</link>
     <description>Recent content on Peter Einarsson Nielsen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 14:34:32 +0100</lastBuildDate><atom:link href="http://pe-nielsen@github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 14:34:32 +0100</lastBuildDate>
+    <atom:link href="http://pe-nielsen@github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://pe-nielsen@github.io/about/</link>
       <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
-      
       <guid>http://pe-nielsen@github.io/about/</guid>
-      <description>I&amp;rsquo;m Peter (Pétur). I hold a master&amp;rsquo;s degree in physics and am currently working towards a PhD at the University of Cambridge.
-I study the fermiology and exotic quantum phases of quantum materials. My research interests are emergent quantum phenomena, unconventional superconductivity, topological magnetism, and energy technologies.
-I did my undergraduate and master&amp;rsquo;s course at Durham University where I graduated with a first-class degree. Work I did for my master&amp;rsquo;s thesis led to new insights in magnetic interactions in cubic-chiral materials.</description>
+      <description>I&amp;rsquo;m Peter (Pétur). I hold a master&amp;rsquo;s degree in physics and am currently working towards a PhD at the University of Cambridge.&#xA;I study the fermiology and exotic quantum phases of quantum materials. My research interests are emergent quantum phenomena, unconventional superconductivity, topological magnetism, and energy technologies.&#xA;I did my undergraduate and master&amp;rsquo;s course at Durham University where I graduated with a first-class degree. Work I did for my master&amp;rsquo;s thesis led to new insights in magnetic interactions in cubic-chiral materials.</description>
     </item>
-    
     <item>
       <title>Test Post</title>
       <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
       <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
-      
       <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Arch Maintenance</title>
+      <link>http://pe-nielsen@github.io/posts/1/01/arch-maintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://pe-nielsen@github.io/posts/1/01/arch-maintenance/</guid>
+      <description>Performing Regular Maintenance Perform regular updates. Check announcements on the Arch forums to resolve any problems. sudo pacman -Syu Occasionally remove orphaned packages sudo pacman -Qdtq | sudo pacman -Rns - </description>
+    </item>
+    <item>
+      <title>XRD Plots with LaTeX</title>
+      <link>http://pe-nielsen@github.io/posts/1/01/xrd-plots-with-latex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://pe-nielsen@github.io/posts/1/01/xrd-plots-with-latex/</guid>
+      <description>This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.&#xA;Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.</description>
+    </item>
   </channel>
 </rss>

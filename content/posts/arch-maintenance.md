@@ -1,6 +1,6 @@
 ---
 title: "Arch Maintenance"
-date: 2024-5-31
+date: 2024-05-31
 draft: false
 toc: false
 images:

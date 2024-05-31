@@ -1,6 +1,6 @@
 ---
 title: "XRD Plots with LaTeX"
-date: 2024-5-31T14:00:00+01:00
+date: 2024-05-31T14:00:00+01:00
 draft: false
 toc: false
 images:
@@ -15,7 +15,7 @@ tags:
 
 This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.
 
-![Final plot](/static/xrd-plots/final-plot.png)
+![Final plot](final-plot.png)
 
 Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.
 
@@ -25,11 +25,11 @@ In order to allow compilation to even occur, we must enable shell escape (look t
 
 One data file contains the data for the two-theta series.
 
-![Header for two-theta series data.](/static/xrd-plots/data-two-theta.png)
+![Header for two-theta series data.](data-two-theta.png)
 
 And another data file contains the positions of the simulated peaks. The `peaktickval` column corresponds with the height of the peak on the main plot. There is most definitely a more sensible way to
 
-![Header for peak position data.](/static/xrd-plots/data-peaks.png)
+![Header for peak position data.](data-peaks.png)
 
 
 ## LaTeX Code

@@ -46,14 +46,14 @@
             <description>This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.
 Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.</description>
             <content type="html"><![CDATA[<p>This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.</p>
-<p><img src="assets/xrd-plots/final-plot.png" alt="Final plot"></p>
+<p><img src="/static/xrd-plots/final-plot.png" alt="Final plot"></p>
 <p>Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.</p>
 <p>In order to allow compilation to even occur, we must enable shell escape (look this up for your editor) and may have to use a non-standard LaTeX compiler such as LuaTeX instead of the standard pdfTeX.</p>
 <h2 id="data-formatting">Data Formatting</h2>
 <p>One data file contains the data for the two-theta series.</p>
-<p><img src="assets/xrd-plots/data-two-theta.png" alt="Header for two-theta series data."></p>
+<p><img src="/static/xrd-plots/data-two-theta.png" alt="Header for two-theta series data."></p>
 <p>And another data file contains the positions of the simulated peaks. The <code>peaktickval</code> column corresponds with the height of the peak on the main plot. There is most definitely a more sensible way to</p>
-<p><img src="assets/xrd-plots/data-peaks.png" alt="Header for peak position data."></p>
+<p><img src="/static/xrd-plots/data-peaks.png" alt="Header for peak position data."></p>
 <h2 id="latex-code">LaTeX Code</h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#75715e">%%%
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">% MUST ENABLE SHELL ESCAPE!

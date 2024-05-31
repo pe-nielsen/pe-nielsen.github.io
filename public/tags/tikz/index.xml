@@ -6,12 +6,13 @@
     <description>Recent content in Tikz on Peter Einarsson Nielsen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2024 14:00:00 +0100</lastBuildDate>
     <atom:link href="http://pe-nielsen@github.io/tags/tikz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>XRD Plots with LaTeX</title>
-      <link>http://pe-nielsen@github.io/posts/1/01/xrd-plots-with-latex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/posts/1/01/xrd-plots-with-latex/</guid>
+      <link>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</link>
+      <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
+      <guid>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</guid>
       <description>This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.&#xA;Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.</description>
     </item>
   </channel>

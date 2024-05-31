@@ -5,55 +5,26 @@
         <description>Recent content in Posts on Peter Einarsson Nielsen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 08 Nov 2022 15:06:57 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 14:00:00 +0100</lastBuildDate>
         <atom:link href="http://pe-nielsen@github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Test Post</title>
-            <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
-            <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
-            
-            <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>Arch Maintenance</title>
-            <link>http://pe-nielsen@github.io/posts/1/01/arch-maintenance/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            
-            <guid>http://pe-nielsen@github.io/posts/1/01/arch-maintenance/</guid>
-            <description>Performing Regular Maintenance Perform regular updates. Check announcements on the Arch forums to resolve any problems. sudo pacman -Syu Occasionally remove orphaned packages sudo pacman -Qdtq | sudo pacman -Rns - </description>
-            <content type="html"><![CDATA[<h1 id="performing-regular-maintenance">Performing Regular Maintenance</h1>
-<ul>
-<li>Perform regular updates. Check announcements on the <a href="https://bbs.archlinux.org/viewforum.php?id=24">Arch forums</a> to resolve any problems.</li>
-</ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo pacman -Syu
-</span></span></code></pre></div><ul>
-<li>Occasionally remove <a href="https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Removing_unused_packages_(orphans)">orphaned packages</a></li>
-</ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo pacman -Qdtq | sudo pacman -Rns -
-</span></span></code></pre></div>]]></content>
-        </item>
-        
-        <item>
             <title>XRD Plots with LaTeX</title>
-            <link>http://pe-nielsen@github.io/posts/1/01/xrd-plots-with-latex/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <link>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</link>
+            <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
             
-            <guid>http://pe-nielsen@github.io/posts/1/01/xrd-plots-with-latex/</guid>
+            <guid>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</guid>
             <description>This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.
 Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.</description>
             <content type="html"><![CDATA[<p>This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.</p>
-<p><img src="/static/xrd-plots/final-plot.png" alt="Final plot"></p>
+<p><img src="final-plot.png" alt="Final plot"></p>
 <p>Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.</p>
 <p>In order to allow compilation to even occur, we must enable shell escape (look this up for your editor) and may have to use a non-standard LaTeX compiler such as LuaTeX instead of the standard pdfTeX.</p>
 <h2 id="data-formatting">Data Formatting</h2>
 <p>One data file contains the data for the two-theta series.</p>
-<p><img src="/static/xrd-plots/data-two-theta.png" alt="Header for two-theta series data."></p>
+<p><img src="data-two-theta.png" alt="Header for two-theta series data."></p>
 <p>And another data file contains the positions of the simulated peaks. The <code>peaktickval</code> column corresponds with the height of the peak on the main plot. There is most definitely a more sensible way to</p>
-<p><img src="/static/xrd-plots/data-peaks.png" alt="Header for peak position data."></p>
+<p><img src="data-peaks.png" alt="Header for peak position data."></p>
 <h2 id="latex-code">LaTeX Code</h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#75715e">%%%
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">% MUST ENABLE SHELL ESCAPE!
@@ -137,6 +108,35 @@ Note that XRD data sets are normally quite large, teetering on the edge of what 
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">\end</span>{document}
 </span></span></code></pre></div>]]></content>
+        </item>
+        
+        <item>
+            <title>Arch Maintenance</title>
+            <link>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</link>
+            <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+            
+            <guid>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</guid>
+            <description>Performing Regular Maintenance Perform regular updates. Check announcements on the Arch forums to resolve any problems. sudo pacman -Syu Occasionally remove orphaned packages sudo pacman -Qdtq | sudo pacman -Rns - </description>
+            <content type="html"><![CDATA[<h1 id="performing-regular-maintenance">Performing Regular Maintenance</h1>
+<ul>
+<li>Perform regular updates. Check announcements on the <a href="https://bbs.archlinux.org/viewforum.php?id=24">Arch forums</a> to resolve any problems.</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo pacman -Syu
+</span></span></code></pre></div><ul>
+<li>Occasionally remove <a href="https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Removing_unused_packages_(orphans)">orphaned packages</a></li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo pacman -Qdtq | sudo pacman -Rns -
+</span></span></code></pre></div>]]></content>
+        </item>
+        
+        <item>
+            <title>Test Post</title>
+            <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
+            <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
+            
+            <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
         </item>
         
     </channel>

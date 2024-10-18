@@ -1,0 +1,10 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 100; }
+
+body {
+  padding-top: 65px;
+  /* Prevent content from being hidden under the fixed header */ }

@@ -110,6 +110,7 @@ function updateLattice() {
 function drawLattice() {
     ctx.clearRect(0, 0, width, height);
     ctx.fillStyle = 'gray'; //'rgba(85, 86, 88, 1)'
+    // ctx.fillStyle = 'red'; //'rgba(85, 86, 88, 1)'
     latticePoints.forEach(point => {
         ctx.beginPath();
         ctx.arc(point.currentX, point.currentY, 2, 0, Math.PI * 2);

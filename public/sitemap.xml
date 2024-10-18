@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pe-nielsen@localhost:1313/tags/diffraction/</loc>
+    <loc>http://pe-nielsen@github.io/tags/diffraction/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/tags/latex/</loc>
+    <loc>http://pe-nielsen@github.io/tags/latex/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/</loc>
+    <loc>http://pe-nielsen@github.io/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/tags/pgfplots/</loc>
+    <loc>http://pe-nielsen@github.io/tags/pgfplots/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/tags/plotting/</loc>
+    <loc>http://pe-nielsen@github.io/tags/plotting/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/posts/</loc>
+    <loc>http://pe-nielsen@github.io/posts/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/tags/</loc>
+    <loc>http://pe-nielsen@github.io/tags/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/tags/tikz/</loc>
+    <loc>http://pe-nielsen@github.io/tags/tikz/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/tags/x-ray/</loc>
+    <loc>http://pe-nielsen@github.io/tags/x-ray/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/posts/2024/05/xrd-plots-with-latex/</loc>
+    <loc>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</loc>
     <lastmod>2024-05-31T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/posts/2024/05/arch-maintenance/</loc>
+    <loc>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/tags/untagged/</loc>
+    <loc>http://pe-nielsen@github.io/tags/untagged/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/about/</loc>
+    <loc>http://pe-nielsen@github.io/about/</loc>
     <lastmod>2022-10-23T14:34:32+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/posts/2022/10/test-post/</loc>
+    <loc>http://pe-nielsen@github.io/posts/2022/10/test-post/</loc>
     <lastmod>2022-10-23T14:34:32+01:00</lastmod>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/blog/</loc>
+    <loc>http://pe-nielsen@github.io/blog/</loc>
   </url><url>
-    <loc>http://pe-nielsen@localhost:1313/series/</loc>
+    <loc>http://pe-nielsen@github.io/series/</loc>
   </url>
 </urlset>

@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Peter Einarsson Nielsen</title>
-        <link>http://pe-nielsen@localhost:1313/posts/</link>
+        <link>http://pe-nielsen@github.io/posts/</link>
         <description>Recent content in Posts on Peter Einarsson Nielsen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 31 May 2024 14:00:00 +0100</lastBuildDate>
-        <atom:link href="http://pe-nielsen@localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://pe-nielsen@github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>XRD Plots with LaTeX</title>
-            <link>http://pe-nielsen@localhost:1313/posts/2024/05/xrd-plots-with-latex/</link>
+            <link>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</link>
             <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
             
-            <guid>http://pe-nielsen@localhost:1313/posts/2024/05/xrd-plots-with-latex/</guid>
+            <guid>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</guid>
             <description>&lt;p&gt;This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;final-plot.png&#34; alt=&#34;Final plot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.&lt;/p&gt;</description>
@@ -113,10 +113,10 @@
         
         <item>
             <title>Arch Maintenance</title>
-            <link>http://pe-nielsen@localhost:1313/posts/2024/05/arch-maintenance/</link>
+            <link>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</link>
             <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
             
-            <guid>http://pe-nielsen@localhost:1313/posts/2024/05/arch-maintenance/</guid>
+            <guid>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</guid>
             <description>&lt;h1 id=&#34;performing-regular-maintenance&#34;&gt;Performing Regular Maintenance&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Perform regular updates. Check announcements on the &lt;a href=&#34;https://bbs.archlinux.org/viewforum.php?id=24&#34;&gt;Arch forums&lt;/a&gt; to resolve any problems.&lt;/li&gt;
@@ -141,10 +141,10 @@
         
         <item>
             <title>Test Post</title>
-            <link>http://pe-nielsen@localhost:1313/posts/2022/10/test-post/</link>
+            <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
             <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
             
-            <guid>http://pe-nielsen@localhost:1313/posts/2022/10/test-post/</guid>
+            <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>

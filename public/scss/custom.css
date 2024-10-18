@@ -1,0 +1,29 @@
+.header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 100; }
+
+body {
+  padding-top: 65px;
+  /* Prevent content from being hidden under the fixed header */
+  margin: 0;
+  padding: 0; }
+
+.content-wrapper {
+  position: relative;
+  z-index: 1;
+  /* Ensure content is above the canvas */
+  background-color: #222426;
+  /* Add a semi-transparent background to the content */
+  max-width: 860px;
+  margin: 100px auto;
+  /* Center the content */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* Vertically center the content if it's shorter than the viewport */
+  /*justify-content: flex-start; /* Prevent vertical centering */
+  /*align-self: flex-start; /* Align content to the start, not stretching */
+  /*flex-shrink: 0; /* Prevent shrinking if space is available */ }

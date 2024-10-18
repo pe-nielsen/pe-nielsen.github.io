@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Peter Einarsson Nielsen</title>
-    <link>http://pe-nielsen@github.io/tags/</link>
+    <link>http://pe-nielsen@localhost:1313/tags/</link>
     <description>Recent content in Tags on Peter Einarsson Nielsen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 May 2024 14:00:00 +0100</lastBuildDate>
-    <atom:link href="http://pe-nielsen@github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pe-nielsen@localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diffraction</title>
-      <link>http://pe-nielsen@github.io/tags/diffraction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/tags/diffraction/</guid>
+      <link>http://pe-nielsen@localhost:1313/tags/diffraction/</link>
+      <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
+      <guid>http://pe-nielsen@localhost:1313/tags/diffraction/</guid>
       <description></description>
     </item>
     <item>
       <title>Latex</title>
-      <link>http://pe-nielsen@github.io/tags/latex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/tags/latex/</guid>
+      <link>http://pe-nielsen@localhost:1313/tags/latex/</link>
+      <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
+      <guid>http://pe-nielsen@localhost:1313/tags/latex/</guid>
       <description></description>
     </item>
     <item>
       <title>Pgfplots</title>
-      <link>http://pe-nielsen@github.io/tags/pgfplots/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/tags/pgfplots/</guid>
+      <link>http://pe-nielsen@localhost:1313/tags/pgfplots/</link>
+      <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
+      <guid>http://pe-nielsen@localhost:1313/tags/pgfplots/</guid>
       <description></description>
     </item>
     <item>
       <title>Plotting</title>
-      <link>http://pe-nielsen@github.io/tags/plotting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/tags/plotting/</guid>
+      <link>http://pe-nielsen@localhost:1313/tags/plotting/</link>
+      <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
+      <guid>http://pe-nielsen@localhost:1313/tags/plotting/</guid>
       <description></description>
     </item>
     <item>
       <title>Tikz</title>
-      <link>http://pe-nielsen@github.io/tags/tikz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/tags/tikz/</guid>
+      <link>http://pe-nielsen@localhost:1313/tags/tikz/</link>
+      <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
+      <guid>http://pe-nielsen@localhost:1313/tags/tikz/</guid>
       <description></description>
     </item>
     <item>
       <title>X-Ray</title>
-      <link>http://pe-nielsen@github.io/tags/x-ray/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/tags/x-ray/</guid>
+      <link>http://pe-nielsen@localhost:1313/tags/x-ray/</link>
+      <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
+      <guid>http://pe-nielsen@localhost:1313/tags/x-ray/</guid>
       <description></description>
     </item>
     <item>
       <title>Untagged</title>
-      <link>http://pe-nielsen@github.io/tags/untagged/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/tags/untagged/</guid>
+      <link>http://pe-nielsen@localhost:1313/tags/untagged/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://pe-nielsen@localhost:1313/tags/untagged/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on Peter Einarsson Nielsen</title>
-    <link>http://pe-nielsen@github.io/tags/untagged/</link>
+    <link>http://pe-nielsen@localhost:1313/tags/untagged/</link>
     <description>Recent content in Untagged on Peter Einarsson Nielsen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pe-nielsen@github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pe-nielsen@localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arch Maintenance</title>
-      <link>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</link>
+      <link>http://pe-nielsen@localhost:1313/posts/2024/05/arch-maintenance/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</guid>
-      <description>Performing Regular Maintenance Perform regular updates. Check announcements on the Arch forums to resolve any problems. sudo pacman -Syu Occasionally remove orphaned packages sudo pacman -Qdtq | sudo pacman -Rns - </description>
+      <guid>http://pe-nielsen@localhost:1313/posts/2024/05/arch-maintenance/</guid>
+      <description>&lt;h1 id=&#34;performing-regular-maintenance&#34;&gt;Performing Regular Maintenance&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Perform regular updates. Check announcements on the &lt;a href=&#34;https://bbs.archlinux.org/viewforum.php?id=24&#34;&gt;Arch forums&lt;/a&gt; to resolve any problems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo pacman -Syu&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;Occasionally remove &lt;a href=&#34;https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Removing_unused_packages_(orphans)&#34;&gt;orphaned packages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo pacman -Qdtq | sudo pacman -Rns -&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Test Post</title>
-      <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
+      <link>http://pe-nielsen@localhost:1313/posts/2022/10/test-post/</link>
       <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
-      <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
+      <guid>http://pe-nielsen@localhost:1313/posts/2022/10/test-post/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+    <head>
+        {{ partial "head.html" . }}
+        <style>
+            /* Ensure the canvas is the background */
+            body, html {
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            .content-wrapper {
+                position: relative;
+                z-index: 1; /* Ensure content is above the canvas */
+            }
+            canvas {
+                position: fixed;
+                top: 0;
+                left: 0;
+                z-index: 0; /* Canvas stays in the background */
+                width: 100vw;
+                height: 100vh;
+                pointer-events: none;
+            }
+        </style>
+    </head>
+
+    {{ block "body" . }}
+        <body>
+    {{ end }}
+
+        <!-- Dynamic canvas for background animation -->
+        <canvas id="latticeCanvas"></canvas>
+
+        <!-- Reference to external JavaScript file -->
+        <script src="{{ "js/background.js" | relURL }}"></script>
+
+        <div class="container">
+            {{ partial "header.html" . }}
+
+            <div class="content">
+                {{ block "main" . }}{{ end }}
+            </div>
+
+
+            {{ block "footer" . }}
+                {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
+
+        {{ partial "javascript.html" . }}
+
+
+    </body>
+</html>

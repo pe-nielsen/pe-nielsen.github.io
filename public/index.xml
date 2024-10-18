@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Einarsson Nielsen</title>
-    <link>http://pe-nielsen@github.io/</link>
+    <link>http://pe-nielsen@localhost:1313/</link>
     <description>Recent content on Peter Einarsson Nielsen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 May 2024 14:00:00 +0100</lastBuildDate>
-    <atom:link href="http://pe-nielsen@github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pe-nielsen@localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>XRD Plots with LaTeX</title>
-      <link>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</link>
+      <link>http://pe-nielsen@localhost:1313/posts/2024/05/xrd-plots-with-latex/</link>
       <pubDate>Fri, 31 May 2024 14:00:00 +0100</pubDate>
-      <guid>http://pe-nielsen@github.io/posts/2024/05/xrd-plots-with-latex/</guid>
-      <description>This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.&#xA;Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.</description>
+      <guid>http://pe-nielsen@localhost:1313/posts/2024/05/xrd-plots-with-latex/</guid>
+      <description>&lt;p&gt;This post contains an outline for how to generate LaTeX figures showing the results of X-Ray diffraction. The produced figures are styled like GSAS-II plots.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;final-plot.png&#34; alt=&#34;Final plot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Note that XRD data sets are normally quite large, teetering on the edge of what LaTeX is able to handle. Definitely well over what LaTeX can comfortably handle and, as such, compilation times here are quite long - of the order of 6 minutes on my system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arch Maintenance</title>
-      <link>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</link>
+      <link>http://pe-nielsen@localhost:1313/posts/2024/05/arch-maintenance/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://pe-nielsen@github.io/posts/2024/05/arch-maintenance/</guid>
-      <description>Performing Regular Maintenance Perform regular updates. Check announcements on the Arch forums to resolve any problems. sudo pacman -Syu Occasionally remove orphaned packages sudo pacman -Qdtq | sudo pacman -Rns - </description>
+      <guid>http://pe-nielsen@localhost:1313/posts/2024/05/arch-maintenance/</guid>
+      <description>&lt;h1 id=&#34;performing-regular-maintenance&#34;&gt;Performing Regular Maintenance&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Perform regular updates. Check announcements on the &lt;a href=&#34;https://bbs.archlinux.org/viewforum.php?id=24&#34;&gt;Arch forums&lt;/a&gt; to resolve any problems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo pacman -Syu&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;Occasionally remove &lt;a href=&#34;https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Removing_unused_packages_(orphans)&#34;&gt;orphaned packages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo pacman -Qdtq | sudo pacman -Rns -&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://pe-nielsen@github.io/about/</link>
+      <link>http://pe-nielsen@localhost:1313/about/</link>
       <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
-      <guid>http://pe-nielsen@github.io/about/</guid>
-      <description>I&amp;rsquo;m Peter (Pétur). I hold a master&amp;rsquo;s degree in physics and am currently working towards a PhD at the University of Cambridge.&#xA;I study the fermiology and exotic quantum phases of quantum materials. My research interests are emergent quantum phenomena, unconventional superconductivity, topological magnetism, and energy technologies.&#xA;I did my undergraduate and master&amp;rsquo;s course at Durham University where I graduated with a first-class degree. Work I did for my master&amp;rsquo;s thesis led to new insights in magnetic interactions in cubic-chiral materials.</description>
+      <guid>http://pe-nielsen@localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Peter (Pétur). I hold a master&amp;rsquo;s degree in physics and am currently working towards a PhD at the &lt;a href=&#34;https://cam.ac.uk&#34;&gt;University of Cambridge&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I study the fermiology and exotic quantum phases of quantum materials. My research interests are &lt;em&gt;emergent quantum phenomena&lt;/em&gt;, &lt;em&gt;unconventional superconductivity&lt;/em&gt;, &lt;em&gt;topological magnetism&lt;/em&gt;, and &lt;em&gt;energy technologies&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I did my undergraduate and master&amp;rsquo;s course at &lt;a href=&#34;https://www.durham.ac.uk&#34;&gt;Durham University&lt;/a&gt; where I graduated with a first-class degree. Work I did for my master&amp;rsquo;s thesis led to new insights in magnetic interactions in cubic-chiral materials.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test Post</title>
-      <link>http://pe-nielsen@github.io/posts/2022/10/test-post/</link>
+      <link>http://pe-nielsen@localhost:1313/posts/2022/10/test-post/</link>
       <pubDate>Sun, 23 Oct 2022 14:34:32 +0100</pubDate>
-      <guid>http://pe-nielsen@github.io/posts/2022/10/test-post/</guid>
+      <guid>http://pe-nielsen@localhost:1313/posts/2022/10/test-post/</guid>
       <description></description>
     </item>
   </channel>
